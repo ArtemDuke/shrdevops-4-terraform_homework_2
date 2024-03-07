@@ -73,11 +73,3 @@ variable "vm_web_core_fraction" {
   default     = 5
   description = "vm cores fraction "
 }
-
-###ssh vars
-
-variable "vms_ssh_public_root_key" {
-  type        = string
-  default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFof2VuaywxMpHMKS8VpHpqwTWydrvSwClDqm5m9zwOE user@user-HP-ProBook-450-G4"
-  description = "ssh public key"
-}
