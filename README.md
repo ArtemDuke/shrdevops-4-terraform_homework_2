@@ -15,3 +15,5 @@
 Задание 4
 
 ![изображение](https://github.com/ArtemDuke/shrdevops-4-terraform_homework_2/assets/161213872/ebe6cf2a-8d78-4df8-bdbe-646e6846fd97)
+
+Задание 6 пока не удалось выполнить
