@@ -56,20 +56,24 @@ variable "vm_web_platform_id" {
   description = "vm platform "
 }
 
-variable "vm_web_core" {
-  type        = number
-  default     = 2
-  description = "vm cores count "
-}
+#variable "vm_web_core" {
+#  type        = number
+#  default     = 2
+#  description = "vm cores count "
+#}
 
-variable "vm_web_memory" {
-  type        = number
-  default     = 2
-  description = "vm memory size "
-}
+#variable "vm_web_memory" {
+#  type        = number
+#  default     = 2
+#  description = "vm memory size "
+#}
 
-variable "vm_web_core_fraction" {
-  type        = number
-  default     = 5
-  description = "vm cores fraction "
-}
+#variable "vm_web_core_fraction" {
+#  type        = number
+#  default     = 5
+#  description = "vm cores fraction "
+#}
+
+variable resources_vm { type = map }
+
+variable vms_ssh_public_root_key { type = map }
