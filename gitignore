@@ -12,5 +12,5 @@
 personal.auto.tfvars
 
 
-# local variables
-*.tfvars
+# local secret variables
+terraform.tfvars
