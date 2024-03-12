@@ -16,4 +16,12 @@
 
 ![изображение](https://github.com/ArtemDuke/shrdevops-4-terraform_homework_2/assets/161213872/ebe6cf2a-8d78-4df8-bdbe-646e6846fd97)
 
-Задание 6 пока не удалось выполнить
+Задание 6 
+
+
+terrafrom.tfvars добалвен в .gitignor и не загружен в репо из-за чувствительных данных
+
+результат сборки из текущего репо
+
+![изображение](https://github.com/ArtemDuke/shrdevops-4-terraform_homework_2/assets/161213872/38065228-dd51-403e-b396-e39f51484412)
+
